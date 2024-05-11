@@ -10,6 +10,9 @@ One of the key features of this application is the integration with RabbitMQ, a 
 
 The application uses MongoDB as its primary database. MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc.
 
+Prod URL: https://travel-app-user-service.onrender.com
+Docs:
+
 ## Installation
 
 ```bash
